@@ -4315,6 +4315,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [ozzinnaC's Solution (Easy)](https://ozzinnac.github.io/google-homepage/) - [View in Browser](https://ozzinnac.github.io/google-homepage/)
 * [Badara's Solution (Easy)](https://github.com/fobadara/google-homepage) - [View in Browser](https://fobadara.github.io/google-homepage/) 
 * [ZOmohundro2020's Solution (Easy)](https://github.com/ZOmohundro2020/google-homepage) - [View in Browser](https://zomohundro2020.github.io/google-homepage/)
+* [dmaninmal's Solution (Easy)](https://github.com/dmanimal/google-homepage)
 </details>
 
 ### Additional Resources
